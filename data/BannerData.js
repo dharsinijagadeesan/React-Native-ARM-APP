@@ -1,0 +1,26 @@
+export const BannerData=[
+    {
+        _id:1,
+        coverImageUri:'https://www.shutterstock.com/image-illustration/rolled-metal-products-steel-profiles-260nw-789274603.jpg',
+        cornerLabelColor:'#FFD300',
+        cornerLabelText:'ARM',
+    },
+    {
+        _id:2,
+        coverImageUri:'https://static7.depositphotos.com/1000207/763/i/450/depositphotos_7638889-stock-photo-background-metallic-pipes-corners-types.jpg',
+        cornerLabelColor:'#FFD300',
+        cornerLabelText:'ARM',
+    },
+    {
+        _id:3,
+        coverImageUri:'https://www.shutterstock.com/image-illustration/different-metal-profile-isolated-on-260nw-552622339.jpg',
+        cornerLabelColor:'#FFD300',
+        cornerLabelText:'ARM',
+    },
+    {
+        _id:4,
+        coverImageUri:'https://cceonlinenews.com/wp-content/uploads/2022/11/Steel-prospects-for-2023-hang-in-the-balance-report.jpg',
+        cornerLabelColor:'#FFD300',
+        cornerLabelText:'ARM',
+    }
+]
